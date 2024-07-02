@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Triple12LightAdw
+Comment=None
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Triple12LightAdw
+GtkTheme=Triple12LightAdw
+IconTheme=Adwaita
